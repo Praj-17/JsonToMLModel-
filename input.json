@@ -21,7 +21,7 @@
             "sampling_method": "No sampling(whole data)",
             "split": "Randomly",
             "k_fold": false,
-            "train_ratio": 0,
+            "train_ratio": 120,
             "random_seed": 0
         },
         "metrics": {
